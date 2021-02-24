@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AWS Auto Scaling Group (ASG) Terraform module
 
 
