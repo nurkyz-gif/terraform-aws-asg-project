@@ -41,6 +41,4 @@
  ![image](https://user-images.githubusercontent.com/66437109/105755000-554a9a00-5f10-11eb-9f89-d3a90d659889.png)
 
 
-=======
->>>>>>> 7a0a60a9b692bf304e9a5aaabe327f50ee45ea46
 
